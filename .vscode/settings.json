@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yangrui/poky/meta-chushi/sources/poky/bitbake/lib"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yangrui/poky/meta-chushi/sources/poky/bitbake/lib"
+    ]
+}
